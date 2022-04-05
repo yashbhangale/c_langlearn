@@ -12,8 +12,8 @@
 //
 // sample inputs;
 //
-//  example_getopt_long -t "There and Back" -a "Bilbo Baggins"
-//  example_getopt_long --author "Jeff Szuhay --title "Hello, world!"
+//  example_getopt_long -t "There and Back" -a "ajink gupta"
+//  example_getopt_long --author "yashuop --title "Hello, world!"
 //  example_getopt_long -a -t
 //  example_getopt_long -b -c 
 //
